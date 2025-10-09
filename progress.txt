@@ -10,4 +10,7 @@ on the 8th of october , organized my work and put my files into folders and uplo
 ---
 i's 9th of october , it's currently 2:39 in the morning i just made a spinning vinyl in the corner of the webpage and now i waned to make it into even something better , into a vinyl pop up player like when u click it it smoothly becomes a media player 
 i'll code a bit a go to sleep lol
+---
+it's the 9th of october ,22:24 pm , starting to make a vinyl player 
+00:30 atill having problems with the visuals of the vinyl player OMGGGGG
 
