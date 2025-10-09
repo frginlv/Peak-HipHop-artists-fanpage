@@ -7,4 +7,7 @@ later on the 7th of october , i organzied and added the javascript file,json fil
 i braistormed a bit to choose my favorite artists hat i am going to work with, and did a drawing to visualize how the website's going to look like , and coded the html + css file , i also added the artists on the json file 
 ---
 on the 8th of october , organized my work and put my files into folders and uploaded the images , also did some modifications on the look of the website using css , also i added a mobile feature for mobile users ,made the js code for the cards and the search bar still working on that tough 
+---
+i's 9th of october , it's currently 2:39 in the morning i just made a spinning vinyl in the corner of the webpage and now i waned to make it into even something better , into a vinyl pop up player like when u click it it smoothly becomes a media player 
+i'll code a bit a go to sleep lol
 
