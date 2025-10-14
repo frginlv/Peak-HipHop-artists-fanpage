@@ -14,4 +14,8 @@ i'll code a bit a go to sleep lol
 it's the 9th of october ,22:24 pm , starting to make a vinyl player 
 00:30 atill having problems with the visuals of the vinyl player OMGGGGG
 yooo just found out why it was a typo lol intead of typing #vinyl-player.active i typed ...:active , i knew the error had to do something with my css code and it was just a typo smh  
+---
+so since saturday i didn't do any coding since i was moving out for university lol today is tuesday , it's 23,54 and i'll work a bit on the project . ofc in this pperiod where i did nothing on this project i was thinking of getting a legal api to use for showing the info about the artists and albums and all that stuff right , but unfortunately couldn't find one and i'll host the songs locally and style everything that is all left to do for now.
+
+!!!!!i was TRYING TO MAKE A GAME TOO AS A 2ND PROJECT BUT WE'LL SEE ABOUT THAT I HOPE I CAN GET ENOUGH TIME 
 
