@@ -1,5 +1,6 @@
 Hello,
-This file was made to track my progress on this wonderful project , i am still a beginner though so languages like javascript are new -ish to me ,and i'll try my best to mention evrything that i did before making this txt file ( i kinda forgot to do that )
+""this is the 23rd oct , hey admins if u are reading this i am still a complete ish beguinner and i spent a lot of times on things that probably sholdn't have taken a lot of times but i've modified several times because i wasn't satisfied with the outcome so please don't consider this as a fraud and i am just learning how things work as i am building my project and thanks in advance""  
+This file was made to track my progress on this wonderful project , i am still a beginner though so languages like javascript are new -ish to me ,and i'll try my best to mention evrything that i did before making this txt file ( i kinda forgot to do that ) 
 ---
 so i guess on the 6th of october i was brainstorming and i got this idea of making a page talking about my favorite hip hop artists not a wiki tho but there'll be some visuals and features to make the experience in the website fun, on this day i only created the index.html and style.css files 
 ---
@@ -23,6 +24,10 @@ so since saturday i didn't do any coding since i was moving out for university l
 let's goooo the admins extended the deadline . btw i fixed the thing why the infos and songs wouldn't show in my artist page now i just gotta style it add some visuals and that spinning vinyl in that both pages and work on my sec project 
 
 ---
-couldn't work a lot these days i had uni lectures (morning and afternoons) and a lot of work , and today 23oct by midnight i started i fixed the frontend of the second page and index file , also i added a visualizer cool stuff still wnated to place somewhere in the page because i am adding songs , btw i hosting songs locally and i'll probably have some problems uploading that to github (i hope it works ) and it's 4 am of the 24 oct now so probably i'll continue by the morning to film the demo and submit it also i might add a features to download posters of the albums  aaand i hope i can submit it in time <3
+couldn't work a lot these days i had uni lectures (morning and afternoons) and a lot of work , and today 23oct by midnight i started i fixed the frontend of the second page and index file , also i added a visualizer cool stuff still wnated to place somewhere in the page because i am adding songs , btw i hosting songs locally and i'll probably have some problems uploading that to github (i hope it works ) and it's 4 am of the 24 oct now so probably i'll continue by the morning to film the demo and submit it also i might add a features to download posters of the albums  aaand i hope i can submit it in time <3 . 
+
+with all love frginlv <33
+
+
 
 
