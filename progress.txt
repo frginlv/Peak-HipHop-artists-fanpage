@@ -22,4 +22,7 @@ so since saturday i didn't do any coding since i was moving out for university l
 ---
 let's goooo the admins extended the deadline . btw i fixed the thing why the infos and songs wouldn't show in my artist page now i just gotta style it add some visuals and that spinning vinyl in that both pages and work on my sec project 
 
+---
+couldn't work a lot these days i had uni lectures (morning and afternoons) and a lot of work , and today 23oct by midnight i started i fixed the frontend of the second page and index file , also i added a visualizer cool stuff still wnated to place somewhere in the page because i am adding songs , btw i hosting songs locally and i'll probably have some problems uploading that to github (i hope it works ) and it's 4 am of the 24 oct now so probably i'll continue by the morning to film the demo and submit it also i might add a features to download posters of the albums  aaand i hope i can submit it in time <3
+
 
