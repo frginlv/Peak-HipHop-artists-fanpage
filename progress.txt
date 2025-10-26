@@ -1,5 +1,5 @@
 Hello,
-""this is the 23rd oct , hey admins if u are reading this i am still a complete ish beguinner and i spent a lot of times on things that probably sholdn't have taken a lot of times but i've modified several times because i wasn't satisfied with the outcome so please don't consider this as a fraud and i am just learning how things work as i am building my project and thanks in advance""  
+""this is the 23rd oct , hey admins if u are reading this i am still a complete ish beguinner and actually this is my first ysws ,i spent a lot of times on things that probably shouldn't have taken a lot of times but i've modified several times because i wasn't satisfied with the outcome so please don't consider this as a fraud and i am just learning how things work as i am building my project and thanks in advance :)) ""  
 
 ---
 This file was made to track my progress on this wonderful project , i am still a beginner though so languages like javascript are new -ish to me ,and i'll try my best to mention evrything that i did before making this txt file ( i kinda forgot to do that ) 
